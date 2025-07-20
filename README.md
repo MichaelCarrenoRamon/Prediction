@@ -1,2 +1,2 @@
 # Prediction
-Proyecto académico de machine learning para predicción de enfermedades cariovasculares
+Proyecto académico de machine learning para predicción de enfermedades cardiovasculares
